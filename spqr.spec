@@ -5,7 +5,7 @@
 
 Name:		spqr
 Version:	1.3.1
-Release:	1
+Release:	2
 Epoch:		1
 Summary:	Implementation of the multifrontal sparse QR factorization
 Group:		System/Libraries
