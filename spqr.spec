@@ -10,7 +10,7 @@ Epoch:		1
 Summary:	Implementation of the multifrontal sparse QR factorization
 Group:		System/Libraries
 License:	GPLv2+
-URL:		http://www.cise.ufl.edu/research/sparse/SPQR/
+URL:		https://www.cise.ufl.edu/research/sparse/SPQR/
 Source0:	http://www.cise.ufl.edu/research/sparse/SPQR/%{NAME}-%{version}.tar.gz
 BuildRequires:	blas-devel
 BuildRequires:	colamd-devel
